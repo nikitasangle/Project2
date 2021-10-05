@@ -1,0 +1,84 @@
+.heading{
+    font-size: 3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 117px;
+    margin-left: 608px;
+    color: rgba(0, 0, 0, 0.712);
+}
+.line1{
+    width: 216px;
+    position: absolute;
+    left: 375px;
+    margin-top: 21px;
+}
+.line2{
+    width: 216px;
+    position: relative;
+    left: 903px;
+    margin-top: -33px;
+}
+.heading1{
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 65px;
+    margin-left: 752px;
+    color: rgba(0, 0, 0, 0.356);
+}
+.fa-angle-left{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    position: relative;
+    left: 721px;
+    top: -35px;
+    cursor: pointer;
+}
+.container{
+    border: 1px solid rgba(255, 0, 0, 0.753);;
+    border-radius: 12px;
+    height: 323px;
+    width: 323px;
+    box-shadow: 5px 4px 7px darkgrey;
+    margin-left: 587px;
+    top: 30px;
+}
+.h1{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    padding: 20px 20px 20px 20px;
+}
+.h2{
+    width: 250px;
+    margin-left: 73px;
+}
+.h3{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    text-decoration: line-through;
+    line-height: 61px;
+}
+.nnn{
+    text-decoration: none;
+}
+.h4{
+    color: rgba(0, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    line-height: 91px;
+    margin-left: 37px;
+    cursor: pointer;
+}
+.fa-plus-circle{
+    font-size: 2em;
+    color: rgba(255, 0, 0, 0.753);
+    position: relative;
+    top: 94px;
+    left: 17px;
+    cursor: pointer;
+}

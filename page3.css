@@ -1,0 +1,171 @@
+.heading{
+    margin: 192px 20px 20px 241px;
+}
+.heading1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.753);
+}
+.heading2{
+    font-family: Calibri light;
+    font-size: 2em;
+    font-weight: lighter;
+    color: rgb(169, 169, 169);
+}
+.heading3{
+    font-family: Calibri light;
+    font-size: 2em;
+    font-weight: lighter;
+    color: rgb(169, 169, 169);
+    margin: -63px 21px 31px 954px;
+}
+.fa-plus-circle{
+    color: rgba(255, 0, 0, 0.753);
+    position: relative;
+    left: 910px;
+    top: -65px;
+    font-size: 29px;
+    cursor: pointer;
+}
+.container{
+    border: 1px solid rgba(255, 0, 0, 0.753);
+    border-radius: 12px;
+    height: 291px;
+    width: 242px;
+    box-shadow: 5px 4px 7px darkgrey;
+    margin-left: 244px;
+    top: 30px;
+}
+.h1{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    padding: 20px 20px 20px 20px;
+}
+.h2{
+    width: 186px;
+    margin-left: 58px;
+}
+.h3{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    text-decoration: line-through;
+    line-height: 61px;
+}
+.h4{
+    color: rgba(0, 0, 0, 0.753);
+    font-size: x-large;
+    text-align: center;
+    font-family: Calibri light;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.container2{
+    border: 1px solid rgba(255, 0, 0, 0.753);
+    border-radius: 12px;
+    height: 291px;
+    width: 242px;
+    box-shadow: 5px 4px 7px darkgrey;
+    margin: -293px 20px 20px 620px;
+}
+.H1{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    padding: 20px 20px 20px 20px;
+}
+.H2{
+    width: 186px;
+    margin-left: 58px;
+}
+.H3{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    text-decoration: line-through;
+    line-height: 61px;
+}
+.H4{
+    color: rgba(0, 0, 0, 0.753);
+    font-size: x-large;
+    text-align: center;
+    font-family: Calibri light;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.container3{
+    border: 1px solid rgba(255, 0, 0, 0.753);
+    border-radius: 12px;
+    height: 291px;
+    width: 242px;
+    box-shadow: 5px 4px 7px darkgrey;
+    margin: -312px 20px 20px 994px;
+}
+.Head1{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    padding: 20px 20px 20px 20px;
+}
+.Head2{
+    width: 186px;
+    margin-left: 58px;
+}
+.Head3{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri light;
+    text-decoration: line-through;
+    line-height: 61px;
+}
+.Head4{
+    color: rgba(0, 0, 0, 0.753);
+    font-size: x-large;
+    text-align: center;
+    font-family: Calibri light;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.blur{
+    filter: blur(8px);
+}
+.Container{
+    height: 183px;
+    width: 306px;
+    box-shadow: 3px 3px 10px darkgrey;
+    border: 1px solid rgba(255, 0, 0, 0.753);
+    border-radius: 19px;
+    margin: -337px 20px 20px 560px;
+    padding-left: 146px;
+}
+.hh{
+    color: rgba(255, 0, 0, 0.753);
+    font-family: Calibri light;
+    font-size: 2em;
+    text-align: center; 
+}
+.hhh{
+    height: 23px;
+    width: 205px;
+    border-radius: 7px;
+    border: 1px solid rgba(255, 0, 0, 0.753);
+    margin-left: -22px;
+}
+.btn{
+    height: 32px;
+    width: 94px;
+    color: whitesmoke;
+    font-size: 1em;
+    background-color: rgba(255, 0, 0, 0.753);
+    margin: 37px 20px 20px 38px;
+    border: 2px solid rgba(255, 0, 0, 0.753);
+    border-radius: 16px;
+}
